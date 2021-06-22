@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/Layout'
 
-const NotFoundPage = () => (
+const Advisors = () => (
   <Layout>
     <div>
       <h1>NOT FOUND</h1>
@@ -10,4 +10,4 @@ const NotFoundPage = () => (
   </Layout>
 )
 
-export default NotFoundPage
+export default Advisors

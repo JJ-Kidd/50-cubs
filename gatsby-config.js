@@ -7,18 +7,14 @@ module.exports = {
       resolve: "gatsby-source-wordpress",
       options: {
         url: "http://35.176.116.64/graphql",
+        protocol: 'https',
       },
     },
     "gatsby-plugin-styled-components",
     "gatsby-plugin-image",
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "",
-      },
-    },
     "gatsby-plugin-react-helmet",
-    "gatsby-plugin-sitemap",
+    "gatsby-plugin-sass",
+    // "gatsby-plugin-sitemap",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {

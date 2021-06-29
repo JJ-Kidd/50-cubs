@@ -1,0 +1,2 @@
+(self.webpackChunkthree_men_and_50_cubs=self.webpackChunkthree_men_and_50_cubs||[]).push([[678],{7704:function(e,t,n){"use strict";n.r(t);var u=n(7294),l=n(2192);t.default=function(){return u.createElement(l.Z,null,u.createElement("div",null,u.createElement("h1",null,"Home"),u.createElement("p",null,"You just hit a route that doesn't exist... the sadness.")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-c8295a1d7d960618870a.js.map

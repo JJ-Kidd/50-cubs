@@ -6,15 +6,11 @@ const Home = () => (
   <Layout>
     <div style={{ position: 'relative' }}>
       <StaticImage 
-      src="../img/cubs.jpg" 
+      src="../img/on-cubs.jpg" 
       alt="Riders and the cubs" 
       placeholder="blurred"
       layout="fullWidth"
-      transformOptions={{
-        grayscale: true
-      }}
       />
-      <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', backgroundColor: '#000', opacity: 0.4}} />
     </div>
     <Wrap>
 <section className="section">

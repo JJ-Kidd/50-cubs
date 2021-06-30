@@ -38,6 +38,14 @@ const Navbar = () => {
           >
             Advisors
           </Link>
+
+          <Link
+            className="navbar-item"
+            to={"/blog"}
+            key={"blog"}
+          >
+            Blog
+          </Link>
           <a 
             className="navbar-item"
             href="#donate"

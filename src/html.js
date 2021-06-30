@@ -23,7 +23,8 @@ export default function HTML(props) {
           dangerouslySetInnerHTML={{ __html: props.body }}
         />
         {props.postBodyComponents}
-        <div id="donate" className="gfm-embed" data-url="https://www.gofundme.com/f/thee-old-men-and-50-cubs/widget/medium/"></div>
+
+        <div id="donate" className="gfm-embed" style={{ paddingBottom: "10px", paddingBottom: "5px", paddingBottom: "5px" }} data-url="https://www.gofundme.com/f/thee-old-men-and-50-cubs/widget/medium/"></div>
         <script dangerouslySetInnerHTML= {{ __html: `${goFundMe}`}} defer />`  
       </body>
     </html>

@@ -5,7 +5,7 @@ import threeLines from '../img/three-horizontal-lines.svg'
 import logo from '../img/logo.svg'
 
 const Navbar = () => {
-  const [menuOpen, setMenuOpen] = useState(true);
+  const [menuOpen, setMenuOpen] = useState(false);
   const isActive = menuOpen ? 'is-active' : '';
   return (
   <nav className="navbar is-transparent">

@@ -2,6 +2,23 @@ import React from 'react'
 import Layout from '../components/Layout'
 import { StaticImage } from "gatsby-plugin-image"
 import Wrap from '../components/Wrap';
+import styled from 'styled-components'; 
+
+const SponsorWrap = styled.div`
+  display: flex;
+  border-top: solid red 2px; 
+  border-bottom: solid red 2px; 
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3em;
+  flex-direction: column;
+  padding: 20px;
+  @media (min-width: 768px){
+    flex-direction: row;
+    width:100%;
+  }
+`
+
 const Home = () => (
   <Layout>
     <div style={{ position: 'relative' }}>
@@ -48,47 +65,47 @@ The entire trip is being funded personally by the three riders and all sponsorsh
       </h1>
       </section>
       </Wrap>
-      <div style={{backgroundColor: '#fff', borderTop: 'solid red 2px', borderBottom: 'solid red 2px', height:"300px", display: 'flex', alignItems: 'center', justifyContent: 'center', marginBottom: '3em' }}>
-      <a href="https://www.jkphotography.org.uk/clients/" style={{marginLeft: '15px', marginRight: '15px'}}>
+      <SponsorWrap>
+      <a href="https://www.jkphotography.org.uk/clients/" style={{margin: '15px'}}>
       <StaticImage 
       src="../img/jkphotography.jpeg" 
       alt="JK Photography" 
       placeholder="blurred"
       layout="fixed"
-      height={100}
+      height={75}
       />
       </a>
 
-      <a href="https://www.ceratizit.com/" style={{marginLeft: '15px', marginRight: '15px'}}>
+      <a href="https://www.ceratizit.com/" style={{margin: '15px'}}>
       <StaticImage 
       src="../img/ceratizit.jpeg" 
       alt="Ceratizit" 
       placeholder="blurred"
       layout="fixed"
-      height={100}
+      height={75}
       />
       </a>
 
-      <a href="http://www.lled.co.uk/" style={{marginLeft: '15px', marginRight: '15px'}}>
+      <a href="http://www.lled.co.uk/" style={{margin: '15px'}}>
       <StaticImage 
       src="../img/lled.png" 
       alt="Lled Construction" 
       placeholder="blurred"
       layout="fixed"
-      height={100}
+      height={75}
       />
       </a>
 
-      <a href="https://www.completeengineeringservices.com/" style={{marginLeft: '15px', marginRight: '15px'}}>
+      <a href="https://www.completeengineeringservices.com/" style={{margin: '15px'}}>
       <StaticImage 
       src="../img/complete.png" 
       alt="Complete Engineering Services" 
       placeholder="blurred"
       layout="fixed"
-      height={100}
+      height={75}
       />
       </a>
-</div>
+</SponsorWrap>
 
 
 

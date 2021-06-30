@@ -33,25 +33,18 @@ const Navbar = () => {
           </Link>
           <Link
             className="navbar-item"
-            to={"/sponsor-us"}
-            key={"sponsor-us"}
-          >
-            Sponsor Us
-          </Link>
-          <Link
-            className="navbar-item"
             to={"/advisors"}
             key={"advisors"}
           >
             Advisors
           </Link>
-          <Link
+          <a 
             className="navbar-item"
-            to={"/sponsors"}
-            key={"sponsors"}
+            href="#donate"
+            
           >
-            Sponsors
-          </Link>
+            Donate
+          </a>
           
       </div>
     </div>

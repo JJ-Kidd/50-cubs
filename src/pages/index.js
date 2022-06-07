@@ -38,8 +38,21 @@ const Home = () => (
 To ride the extreme coastline of the UK on Honda 50 cubs a journey of more than 4700 miles on machines that can do a maximum speed of 37 mph.
 </p>
 <p className="block">
-As two of the three riders work full time and will need to use holiday to fulfil this objective the journey will be split into three legs. Leg one setting off from Carlisle and traveling clockwise around mainland and some of the islands of Scotland ending at Holy Island Northumberland. Leg two Holy Island to Lands’ End traveling down the eastern side of England and then along the south coat, finally leg three from Lands’ End traveling up the western coastline of England and Wales returning to Carlisle.
+As two of the three riders work full time running Complete Engineering services Ltd. in Crosby-on-Eden thus, they will need to use holiday to fulfil this objective the journey will therefore be split into three legs. Dee on the other hand is now fully retired after 26 years of founding and running LLED Construction Ltd in Carlisle.
 </p>
+
+<p className="block">
+Leg one was completed in September 2021, the trio set off from Carlisle and travelled clockwise around mainland and some of the islands of Scotland ending at Holy Island Northumberland. The journey of 1434 miles took ten days to complete and raised a stunning £ 6535.00 in sponsorship
+</p>
+
+<p className="block">
+Leg two Holy Island to Exeter traveling down the eastern side of England and then along the south coast will commence on June 21st. 2022 and hopefully be completed by the 1st. July 2022.
+</p>
+
+<p className="block">
+Finally leg three from Exeter traveling up the western coastline of England and Wales returning to Carlisle will be undertaken in 2023 on a date yet to be determined.
+</p>
+
 </section>
 
 <section className="section">
@@ -47,13 +60,13 @@ As two of the three riders work full time and will need to use holiday to fulfil
 Mission purpose
 </h1>
 <p className="block">
-Firstly, three motorcycle daft mates having a laugh and ripping the Mickey out of each other continually.
+Firstly, three motorcycle daft mates having a laugh and ripping the Mickey out of each other continually. Secondly to raise money for Blood Bikes Cumbria (BBC) and on leg one The Cumberland Infirmary, Carlisle, (CIC). On leg two sponsorship money will be split equally between Blood Bikes Cumbria and Lymphoma Action.
 </p>
 <p className="block">
-Secondly to raise money for Blood Bikes Cumbria (BBC) and The Cumberland Infirmary, Carlisle, (CIC). Why these causes you ask? Dee (pictured centre) has been a blood bike rider and fund raiser for BBC since 2015, Monkey (pictured right) was hospitalized for ten days in January 2021 with Covid-19 in CIC and wishes to show thanks to the lifesaving care he received in this our local hospital.
+Why these causes you ask? Dee (pictured centre) has been a blood bike rider and fund raiser for BBC since 2015 he is currently the charity’s vice treasurer, Monkey (pictured right) was hospitalized for ten days in January 2021 with Covid-19 in CIC and wished to show thanks to the lifesaving care he received in this our local hospital. A close associate of Monkey & Bowie’s is Jake Johnston who is 24 years old and has been battling with a form of Non-Hodgkin Lymphoma known as Diffuse Large B-Cell NHL for the past 4 months. He is coming towards the end of his Chemotherapy treatment before beginning radiotherapy. Lymphoma Action provides free emotional support and information to people affected by lymphatic cancer (Hodgkin and non-Hodgkin lymphomas) - the 5th most common cancer diagnosed in the UK.
 </p>
 <p className="block">
-The entire trip is being funded personally by the three riders and all sponsorship goes directly and fully to the two stated causes in equal measure.
+The entire trip is being funded personally by the three riders and all sponsorship goes directly and fully to the two stated causes in equal measure. Leg one was completed without the aid of a support vehicle and the intent is to continue so on legs two and three.
 </p>
 </section>
     </Wrap>

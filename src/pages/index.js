@@ -42,7 +42,7 @@ As two of the three riders work full time running Complete Engineering services 
 </p>
 
 <p className="block">
-Leg one was completed in September 2021, the trio set off from Carlisle and travelled clockwise around mainland and some of the islands of Scotland ending at Holy Island Northumberland. The journey of 1434 miles took ten days to complete and raised a stunning £ 6535.00 in sponsorship
+Leg one was completed in September 2021, the trio set off from Carlisle and travelled clockwise around mainland and some of the islands of Scotland ending at Holy Island Northumberland. The journey of 1434 miles took ten days to complete and raised a stunning £ 6535.00 in sponsorship.
 </p>
 
 <p className="block">
@@ -79,6 +79,16 @@ The entire trip is being funded personally by the three riders and all sponsorsh
       </section>
       </Wrap>
       <SponsorWrap>
+      <a href="https://www.edenvalleyhospice.org/" style={{margin: '15px'}}>
+      <StaticImage 
+      src="../img/eden-valley-hospice-jigsaw-logo.png" 
+      alt="Eden Valley Hospice" 
+      placeholder="blurred"
+      layout="fixed"
+      height={75}
+      />
+      </a>
+      
       <a href="https://www.jkphotography.org.uk/clients/" style={{margin: '15px'}}>
       <StaticImage 
       src="../img/jkphotography.jpeg" 
@@ -103,6 +113,16 @@ The entire trip is being funded personally by the three riders and all sponsorsh
       <StaticImage 
       src="../img/lled.png" 
       alt="Lled Construction" 
+      placeholder="blurred"
+      layout="fixed"
+      height={75}
+      />
+      </a>
+
+      <a href="https://bloodbikescumbria.org.uk/" style={{margin: '15px'}}>
+      <StaticImage 
+      src="../img/bb-logo-small.png" 
+      alt="Blood Bikes Cumbria" 
       placeholder="blurred"
       layout="fixed"
       height={75}
